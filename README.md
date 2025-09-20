@@ -15,5 +15,5 @@ Learning
 - Rust
 
 Contact
-Discord: up_graves
+Discord: up_graves<br>
 Email: jmj30yt@jmj30yt.xyz
