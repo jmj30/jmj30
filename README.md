@@ -13,3 +13,7 @@ Know
 Learning
 - Java
 - Rust
+
+Contact
+Discord: up_graves
+Email: jmj30yt@jmj30yt.xyz
