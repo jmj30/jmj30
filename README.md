@@ -1,10 +1,15 @@
-Hello I'm Jayden Johnson
+Hai I'm Jade, I'm 20 from NB, Canada.
 
-I work on:
-- Docker
+Cloned code from my Gitlab:
+[Gitlab](https://gitlab.jmj30yt.xyz/jmj30)
+
+I make Discord bots, Websites (fullstack), and tools.
+Know
 - Python
-- Nix
+- HTML
+- CSS
+- JS
 
-I'm still learning
-
-all the code here is from my Gitlab
+Learning
+- Java
+- Rust
